@@ -1,3 +1,5 @@
+This is a GIT branch for the YMFC-AL code. This code was made by Joop Brokking and you should visit his site: http://www.brokking.net/ymfc-al_main.html
+
 Thank you for downloading the YMFC-AL software package. 
 
 Current version: 1.2 - July 12, 2016
